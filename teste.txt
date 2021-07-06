@@ -1,2 +1,9 @@
 Felipe Austríaco
 Victor
+
+
+# git pull - Atualiza a branch local com a branch origin
+# git fetch - Atualiza as branchs locais com as origin
+# git add - Adiciona arquivo para o modo staged
+
+Outrocomentario
