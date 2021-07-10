@@ -7,3 +7,5 @@ Victor
 # git add - Adiciona arquivo para o modo staged
 
 Outrocomentario
+
+<button onClick={fazalgumacoisa()}>Botao</button>
